@@ -9,15 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b76593d7-7968-4be1-b6a0-2391c8622f7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/calc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/infoservice/springcourse/controllers/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/infoservice/springcourse/controllers/FirstController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/infoservice/springcourse/controllers/FirstController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/infoservice/springcourse/controllers/FirstController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/top/infoservice/springcourse/controllers/FirstController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/top/infoservice/springcourse/controllers/FirstController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/first/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/first/hello.html" afterDir="false" />
-    </list>
+    <list default="true" id="b76593d7-7968-4be1-b6a0-2391c8622f7c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,7 +153,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619606648969</updated>
-      <workItem from="1619606652419" duration="4588000" />
+      <workItem from="1619606652419" duration="5470000" />
     </task>
     <servers />
   </component>
