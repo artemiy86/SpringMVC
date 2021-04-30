@@ -10,15 +10,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b76593d7-7968-4be1-b6a0-2391c8622f7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f6ab6c5c-9605-41d4-9243-d728409ff361.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f6ab6c5c-9605-41d4-9243-d728409ff361/storage_v2/_src_/database/first_db.bWA53w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f6ab6c5c-9605-41d4-9243-d728409ff361/storage_v2/_src_/database/first_db.bWA53w/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f6ab6c5c-9605-41d4-9243-d728409ff361/storage_v2/_src_/database/first_db.bWA53w/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f6ab6c5c-9605-41d4-9243-d728409ff361/storage_v2/_src_/database/first_db.bWA53w/schema/public.abK9xQ.meta" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/checker-qual-3.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/postgresql-42.2.20.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_app1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_app1_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-mvc-app1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mvc-app1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/top/infoservice/springcourse/controllers/PeopleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/infoservice/springcourse/controllers/PeopleController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/top/infoservice/springcourse/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/infoservice/springcourse/dao/PersonDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/new.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/top/infoservice/springcourse/controllers/PeopleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/infoservice/springcourse/controllers/PeopleController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/top/infoservice/springcourse/dao/PersonDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/infoservice/springcourse/dao/PersonDAO.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/top/infoservice/springcourse/controllers/PeopleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/top/infoservice/springcourse/controllers/PeopleController.class" afterDir="false" />
@@ -176,7 +185,7 @@
       <updated>1619606648969</updated>
       <workItem from="1619606652419" duration="9976000" />
       <workItem from="1619707579535" duration="8710000" />
-      <workItem from="1619788464790" duration="7617000" />
+      <workItem from="1619788464790" duration="7950000" />
     </task>
     <servers />
   </component>

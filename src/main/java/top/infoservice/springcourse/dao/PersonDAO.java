@@ -13,7 +13,7 @@ public class PersonDAO {
 
     private static final String URL = "jdbc:postgresql://172.17.1.1:5432/first_db";
     private static final String userName = "postgres";
-    private static final String password = "Dfkg423fcd";
+    private static final String password = "postgres";
 
     private static Connection connection;
 
