@@ -10,60 +10,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b76593d7-7968-4be1-b6a0-2391c8622f7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_1_6_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/infoservice/springcourse/controllers/PeopleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_20.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_app1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_app1_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_1_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_1_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_1_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_6.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-mvc-app1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mvc-app1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/infoservice/springcourse/config/MySpringMVCDispatcherServletInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/infoservice/springcourse/config/MySpringMVCDispatcherServletInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/infoservice/springcourse/controllers/PepleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/infoservice/springcourse/controllers/PeopleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/infoservice/springcourse/controllers/PeopleController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/top/infoservice/springcourse/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/infoservice/springcourse/dao/PersonDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/infoservice/springcourse/models/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/infoservice/springcourse/models/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/show.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/infoservice/springcourse/config/MySpringMVCDispatcherServletInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/infoservice/springcourse/config/MySpringMVCDispatcherServletInitializer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/infoservice/springcourse/controllers/PepleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/top/infoservice/springcourse/controllers/PeopleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/infoservice/springcourse/controllers/PeopleController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/top/infoservice/springcourse/dao/PersonDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/infoservice/springcourse/dao/PersonDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/infoservice/springcourse/models/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/infoservice/springcourse/models/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/top/infoservice/springcourse/config/MySpringMVCDispatcherServletInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/top/infoservice/springcourse/config/MySpringMVCDispatcherServletInitializer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/top/infoservice/springcourse/controllers/FirstController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/top/infoservice/springcourse/controllers/PepleController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/top/infoservice/springcourse/controllers/SecondController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/top/infoservice/springcourse/controllers/PeopleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/top/infoservice/springcourse/controllers/PeopleController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/top/infoservice/springcourse/dao/PersonDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/top/infoservice/springcourse/dao/PersonDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/top/infoservice/springcourse/models/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/top/infoservice/springcourse/models/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-aop-5.3.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-beans-5.3.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-context-5.3.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-core-5.3.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-expression-5.3.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-jcl-5.3.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-web-5.3.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-webmvc-5.3.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/first/calc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/first/goodbye.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/first/hello.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/show.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/second/exit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/people/new.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +54,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -101,8 +62,22 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.45" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.45" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -201,7 +176,7 @@
       <updated>1619606648969</updated>
       <workItem from="1619606652419" duration="9976000" />
       <workItem from="1619707579535" duration="8710000" />
-      <workItem from="1619788464790" duration="645000" />
+      <workItem from="1619788464790" duration="7617000" />
     </task>
     <servers />
   </component>

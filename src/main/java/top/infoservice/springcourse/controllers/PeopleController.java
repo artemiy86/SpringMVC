@@ -10,6 +10,7 @@ import top.infoservice.springcourse.models.Person;
 
 import javax.naming.Binding;
 import javax.validation.Valid;
+import java.sql.SQLException;
 
 @Controller
 @RequestMapping("/people")
@@ -23,7 +24,7 @@ public class PeopleController {
     }
 
     @GetMapping()
-    public String index(Model model){
+    public String index(Model model) throws SQLException {
         // Получаем всех из DAO и передаем в представление
         model.addAttribute("people",personDAO.index());
         return "people/index";
@@ -31,7 +32,7 @@ public class PeopleController {
 
     @GetMapping("/{id}")
     public String show(@PathVariable("id") int id,
-                       Model model){
+                       Model model) throws SQLException {
         // Получаем одного по id из DAO и передаем на представление
         model.addAttribute("person",personDAO.show(id));
         return "people/show";
@@ -44,14 +45,14 @@ public class PeopleController {
     }
 
     @GetMapping("/{id}/edit")
-    public String exit(Model model,@PathVariable("id") int id){
+    public String exit(Model model,@PathVariable("id") int id) throws SQLException {
         model.addAttribute("person",personDAO.show(id));
         return "people/edit";
     }
 
     @PostMapping()
     public String create(@ModelAttribute("person") @Valid Person person,
-                         BindingResult bindingResult){
+                         BindingResult bindingResult) throws SQLException {
         if(bindingResult.hasErrors()){
             return "people/new";
         }
@@ -62,7 +63,7 @@ public class PeopleController {
     @PatchMapping("/{id}")
     public String update(@ModelAttribute("person") @Valid Person person,
                          BindingResult bindingResult,
-                         @PathVariable("id") int id){
+                         @PathVariable("id") int id) throws SQLException {
         if(bindingResult.hasErrors()){
             return "people/edit";
         }
@@ -71,7 +72,7 @@ public class PeopleController {
     }
 
     @DeleteMapping("/{id}")
-    public String delete(@PathVariable("id") int id){
+    public String delete(@PathVariable("id") int id) throws SQLException {
         personDAO.delete(id);
         return "redirect:/people";
     }
